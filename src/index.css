@@ -1,0 +1,9 @@
+.section-dark {
+    background:rgb(207, 207, 207);
+    padding:2%;
+}
+
+.section-light {
+    background:rgb(101, 101, 101);
+    padding:2%;
+}
